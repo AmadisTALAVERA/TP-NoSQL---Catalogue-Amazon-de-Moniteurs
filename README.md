@@ -1,7 +1,7 @@
 # TP-NoSQL---Catalogue-Amazon-de-Moniteurs
 par Amadis TALAVERA et Esteban DE OLIVEIRA.
 
-Attention : Suite a des problèmes d'organisation, deux repos différents et incomplets avaient étés créés. Un troisième repo a été créé pour rendre le projet, contenant donc les files, le README et la documentation.
+Attention : Suite a des problèmes d'organisation, deux repos différents et incomplets avaient étés créés. Un troisième repo a été créé pour rendre le projet, contenant donc les files, le README et la documentation (celui ci).
 
 Ce projet est une application web interactive développée avec Streamlit qui permet de filtrer et visualiser un catalogue de moniteurs à partir d'une base de données MongoDB.
 
